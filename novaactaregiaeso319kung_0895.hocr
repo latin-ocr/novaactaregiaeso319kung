@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaregiaeso319kung/novaactaregiaeso319kung_0895.png"; bbox 0 0 2226 3099; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1700 2755 2094 2780">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1700 2755 2094 2780">
+     <span class='ocr_line' id='line_1_1' title="bbox 1700 2755 2094 2780; baseline -0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1700 2756 1763 2780; x_wconf 63' lang='lat' dir='ltr'>Gen</span> <span class='ocrx_word' id='word_1_2' title='bbox 1769 2756 1814 2780; x_wconf 70' lang='lat' dir='ltr'>Sm</span> <span class='ocrx_word' id='word_1_3' title='bbox 1820 2756 1842 2779; x_wconf 79' lang='lat' dir='ltr'>b.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1850 2756 1899 2779; x_wconf 61' lang='lat' dir='ltr'>Lst.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1906 2759 1975 2780; x_wconf 67' lang='lat' dir='ltr'>Aust</span> <span class='ocrx_word' id='word_1_6' title='bbox 1982 2756 2032 2779; x_wconf 61' lang='lat'>5101</span> <span class='ocrx_word' id='word_1_7' title='bbox 2040 2755 2094 2779; x_wconf 71' lang='lat' dir='ltr'>kh..</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 95 290 2118 2749">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 95 290 2118 2749">
+     <span class='ocr_line' id='line_1_2' title="bbox 95 290 2118 2749"><span class='ocrx_word' id='word_1_8' title='bbox 95 290 2118 2749; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 135 2750 394 2787">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 135 2750 394 2787">
+     <span class='ocr_line' id='line_1_3' title="bbox 135 2750 394 2787; baseline 0.004 -12"><span class='ocrx_word' id='word_1_9' title='bbox 135 2750 306 2787; x_wconf 69' lang='lat' dir='ltr'>Lilljebovgj</span> <span class='ocrx_word' id='word_1_10' title='bbox 325 2751 378 2777; x_wconf 60' lang='lat' dir='ltr'>dol</span> <span class='ocrx_word' id='word_1_11' title='bbox 390 2773 394 2776; x_wconf 72' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 77 290 1146 333">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 77 290 1146 333">
+     <span class='ocr_line' id='line_1_4' title="bbox 77 290 1146 333; baseline -0.002 -14"><span class='ocrx_word' id='word_1_12' title='bbox 77 321 79 323; x_wconf 64' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 134 290 236 319; x_wconf 79' lang='lat' dir='ltr'>Nova</span> <span class='ocrx_word' id='word_1_14' title='bbox 249 292 346 319; x_wconf 72' lang='lat' dir='ltr'>Aeta</span> <span class='ocrx_word' id='word_1_15' title='bbox 366 292 452 333; x_wconf 63' lang='lat' dir='ltr'>Reg.</span> <span class='ocrx_word' id='word_1_16' title='bbox 466 292 544 326; x_wconf 76' lang='lat' dir='ltr'>Soc.</span> <span class='ocrx_word' id='word_1_17' title='bbox 563 290 617 319; x_wconf 84' lang='lat' dir='ltr'>Sc.</span> <span class='ocrx_word' id='word_1_18' title='bbox 635 293 712 327; x_wconf 79' lang='lat' dir='ltr'>Ups.</span> <span class='ocrx_word' id='word_1_19' title='bbox 727 292 798 319; x_wconf 82' lang='lat' dir='ltr'>Ser.</span> <span class='ocrx_word' id='word_1_20' title='bbox 811 291 863 318; x_wconf 86' lang='lat' dir='ltr'>m.</span> <span class='ocrx_word' id='word_1_21' title='bbox 889 291 1078 318; x_wconf 70' lang='lat' dir='ltr'>Cladooera</span> <span class='ocrx_word' id='word_1_22' title='bbox 1099 290 1146 318; x_wconf 82' lang='lat' dir='ltr'>Sv</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
